@@ -1,0 +1,13 @@
+prefix=/Users/sumitsaha/Desktop/DataScience_Udemy/ComputerVision/Practice/cv_img
+exec_prefix=/Users/sumitsaha/Desktop/DataScience_Udemy/ComputerVision/Practice/cv_img
+libdir=/Users/sumitsaha/Desktop/DataScience_Udemy/ComputerVision/Practice/cv_img/lib
+sharedlibdir=/Users/sumitsaha/Desktop/DataScience_Udemy/ComputerVision/Practice/cv_img/lib
+includedir=/Users/sumitsaha/Desktop/DataScience_Udemy/ComputerVision/Practice/cv_img/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

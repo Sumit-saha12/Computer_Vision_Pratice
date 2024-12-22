@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/sumitsaha/Desktop/DataScience_Udemy/ComputerVision/Practice/cv_img/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
